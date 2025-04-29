@@ -31,9 +31,9 @@ Soy un desarrollador apasionado por construir soluciones eficientes y escalables
 
 ## 📫 ¿Dónde encontrarme?
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/whalen-stiven-caicedo)
-- 💼 [Portafolio en desarrollo](https://github.com/whalenstiven/portafolio)
-- 📧 whalen@example.com *(reemplaza con tu correo si deseas compartirlo)*
+- 🌐 [LinkedIn]([https://www.linkedin.com/in/whalen-stiven-caicedo](https://www.linkedin.com/in/whalen-stiven-caicedo/))
+- 💼 [Portafolio en desarrollo]([https://github.com/whalenstiven/portafolio](https://github.com/whastica/PortfolioStivenConAstro))
+- 📧 whalensoft@gmail.com
 
 ---
 
