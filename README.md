@@ -1,8 +1,8 @@
 # 👋 ¡Hola! Soy Whalen Stiven Caicedo
 
 🎯 **Backend Developer** | 🧠 **Ingeniero de Sistemas**  
-💻 Java | Spring | React | HTML | CSS | JS | MySQL | MongoDB  
-🏋️ **Gym Athlete classic Physique**
+💻 Java | Spring | React | HTML | CSS | JS | MySQL | MongoDB| Docker| RabbittMQ  
+🏋️ **Gym Athlete Classic Physique**
 
 ---
 
