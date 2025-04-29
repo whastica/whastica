@@ -35,7 +35,7 @@ Soy un desarrollador apasionado por construir soluciones eficientes y escalables
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=whalenstiven&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whalenstiven&layout=compact&langs_count=8&theme=react&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whastica&layout=compact&langs_count=8&theme=react&hide_border=true"/>
 </div>
 
 ---
