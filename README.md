@@ -2,7 +2,7 @@
 
 🎯 **Backend Developer** | 🧠 **Ingeniero de Sistemas**  
 💻 Java | Spring | React | HTML | CSS | JS | MySQL | MongoDB  
-🏋️ **Gym Athlete** en constante mejora personal
+🏋️ **Gym Athlete classic Physique**
 
 ---
 
